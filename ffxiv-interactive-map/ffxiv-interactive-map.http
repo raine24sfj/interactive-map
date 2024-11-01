@@ -1,6 +1,0 @@
-@ffxiv_interactive_map_HostAddress = http://localhost:5049
-
-GET {{ffxiv_interactive_map_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
