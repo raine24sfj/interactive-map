@@ -11,3 +11,10 @@
     width: 100vw;
     height: 100vh;
 }
+
+@layer utilities {
+    .YourClassHere {
+      @apply text-white;
+    }
+  }
+  
