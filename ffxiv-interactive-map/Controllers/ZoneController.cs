@@ -6,8 +6,8 @@ namespace ffxiv_interactive_map.Controllers;
 [ApiController]
 public class ZoneController : ControllerBase
 {
-    [HttpGet("/[controller]/{id}")]
-    private async Task<IActionResult> GetZoneData(string id)
+    [HttpGet("/[controller]/{zone}")]
+    private IActionResult GetZoneData(string zone)
     {
         return Ok();
     }

@@ -1,16 +1,16 @@
-import './App.scss'//Uncomment this, VSCode just complained like a bitch - Hawk
-import { SideBar } from './components/SideBar';
-import { ZoneMap } from './components/ZoneMap';
+import './App.scss'
+import { SideBar } from './components/sidebar';
+import { Maps } from './components/maps';
+import { Header } from './components/header';
 
 function App() {
   return (
     <>
-    <div className="bg-[#000] font-normal">
+      <Header />
       <div className="grid grid-cols-3 gap-4">
         <SideBar />
-        <ZoneMap />
+        <Maps />
       </div>
-    </div>
     </>
   );
 }
