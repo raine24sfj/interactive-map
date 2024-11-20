@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\dev\\web\\interactive-map\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|z:\\dev\\web\\interactive-map\\interactivemap.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|solutionrelative:interactivemap.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|z:\\dev\\web\\interactive-map\\interactivemap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|solutionrelative:interactivemap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|z:\\dev\\web\\interactive-map\\interactivemap.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B5C24F1-0D2E-462B-8F7F-42ABC47E8B73}|InteractiveMap.API\\InteractiveMap.API.csproj|solutionrelative:interactivemap.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "InteractiveMap.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "InteractiveMap.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:57:21.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Dockerfile",
+              "RelativeDocumentMoniker": "InteractiveMap.API\\Dockerfile",
+              "ToolTip": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Dockerfile",
+              "RelativeToolTip": "InteractiveMap.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-15T08:56:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Program.cs",
+              "RelativeDocumentMoniker": "InteractiveMap.API\\Program.cs",
+              "ToolTip": "Z:\\dev\\web\\interactive-map\\InteractiveMap.API\\Program.cs",
+              "RelativeToolTip": "InteractiveMap.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:56:21.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
